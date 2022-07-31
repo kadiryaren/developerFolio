@@ -130,7 +130,7 @@ const educationInfo = {
       duration: "September 2020 - April 2023",
       desc: "",
       descBullets: [
-        "I took an active part in the PauSiber community",
+        "PauSiber Community",
         "We did many coding night events with my friends"
       ]
     }
